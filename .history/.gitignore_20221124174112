@@ -1,11 +1,6 @@
-# system 
-*.DS_Store
-/.metadata
-/bin
-/.DS_Store
 # Compiled class file
 *.class
-
+*.
 # Log file
 *.log
 
